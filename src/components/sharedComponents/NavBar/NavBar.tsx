@@ -17,7 +17,7 @@ import {
 } from '@mui/material'
 import { useNavigate } from 'react-router-dom'
 import HomeIcon from '@mui/icons-material/Home'
-import ShoppingBagIcon from '@mui/icons-material/Shop'
+import ShoppingBagIcon from '@mui/icons-material/Key'
 import GarageIcon from '@mui/icons-material/TimeToLeave'
 import ShopIcon from '@mui/icons-material/Store'
 
